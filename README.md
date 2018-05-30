@@ -52,6 +52,6 @@ and optimized for boosted (tree) algorithms.
 
 
 Enclosed in this repository are also the following portions of the capstone project for Udacity's Machine Learning NanoDegree:
-1. Capstone Report PDF
+1. Paper - Predicting Airbnb New User Bookings with Gradient Boosted Trees PDF
 2. Data Exploration Jupyter Notebook
 3. Data Preprocessing, Training, Cross Validation, and Testing Jupyter Notebook
